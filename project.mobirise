@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -81,7 +81,7 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/chapel1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-            "ExtEdit": true,
+            "ExtEdit": false,
             "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -94,7 +94,7 @@
           },
           "blockTitle": "",
           "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/chapel1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "tinyeditor": "",
           "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -284,7 +284,7 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/canteen1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-            "ExtEdit": true,
+            "ExtEdit": false,
             "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -297,7 +297,7 @@
           },
           "blockTitle": "",
           "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/canteen1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "tinyeditor": "",
           "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -487,7 +487,7 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/mgh1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-            "ExtEdit": true,
+            "ExtEdit": false,
             "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -500,7 +500,7 @@
           },
           "blockTitle": "",
           "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/mgh1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "tinyeditor": "",
           "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -689,8 +689,8 @@
         {
           "_params": {
             "blockTitle": "",
-            "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/finalSubmit\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\nYour Email:<br>\n  <input type=\"text\" name=\"emailAddress\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-            "ExtEdit": true,
+            "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/finalSubmit\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\nYour Email:<br>\n  <input type=\"text\" name=\"emailAddress\"><br>\n  <button type=\"submit\">Finish</button>\n</form>",
+            "ExtEdit": false,
             "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -702,8 +702,8 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/finalSubmit\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\nYour Email:<br>\n  <input type=\"text\" name=\"emailAddress\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/finalSubmit\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\nYour Email:<br>\n  <input type=\"text\" name=\"emailAddress\"><br>\n  <button type=\"submit\">Finish</button>\n</form>",
+          "tinyeditor": "",
           "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -893,7 +893,7 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/paf1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-            "ExtEdit": true,
+            "ExtEdit": false,
             "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -906,7 +906,7 @@
           },
           "blockTitle": "",
           "HTMLCode": "<form method=\"POST\" action=\"https://deafening-gecko.dev.with-datafire.io/paf1\">\n  Your Name:<br>\n  <input type=\"text\" name=\"name\"><br>\n  <button type=\"submit\">Get Clue</button>\n</form>",
-          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "tinyeditor": "",
           "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
