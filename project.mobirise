@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.7.7"
   },
   "pages": {
@@ -89,6 +89,21 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "anchor": "deltapicodeedit-q",
+            "codeEdit": false,
+            "tinyEdit": false
+          },
+          "_customHTML": "<form method=\"POST\" action=\"https://formspree.io/wfltaylor@gmail.com\">Your Name:<br><input type=\"text\" name=\"firstname\"><br><button type=\"submit\">Get Clue</button></form>",
+          "_customCSS": "",
+          "alias": "deltapicodeedit",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapicodeedit",
+          "_anchor": "deltapicodeedit-q"
         },
         {
           "_params": {
